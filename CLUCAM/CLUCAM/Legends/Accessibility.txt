@@ -1,0 +1,36 @@
+Version 2
+NClasses 8
+Palette
+000	192	000
+073	210	000
+146	228	000
+219	246	000
+246	219	000
+228	146	000
+210	073	000
+192	000	000
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+0 ... 1 [Hours]
+1 ... 2 [Hours]
+2 ... 3 [Hours]
+3 ... 4 [Hours]
+4 ... 5 [Hours]
+5 ... 6 [Hours]
+6 ... 7 [Hours]
+7 ... 100 [Hours]
+StateOrder 0
+StateScale 1
+0	1
+1	2
+2	3
+3	4
+4	5
+5	6
+6	7
+7	100
+ShowUnit=1

@@ -1,0 +1,24 @@
+Version 2
+NClasses 9
+Palette
+000	112	255
+255	000	000
+255	170	000
+215	107	218
+000	230	169
+115	038	000
+115	178	115
+210	109	025
+204	204	000
+StateOrderColor 0
+LegendType 0
+Water
+Urban
+Arable Plantation
+Rubber Plantation
+Wood Plantation
+Oil Palm Plantation
+Dense Forest
+Permanent Agriculture
+Forest-Permanent Agriculture Mosaic
+ShowUnit=1

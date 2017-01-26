@@ -1,0 +1,27 @@
+Version 2
+NClasses 5
+Palette
+224	255	224
+112	224	112
+000	192	000
+000	096	000
+000	000	000
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+0 ... 20 [Percent]
+20 ... 40 [Percent]
+40 ... 60 [Percent]
+60 ... 80 [Percent]
+80 ... 100 [Percent]
+StateOrder 0
+StateScale 1
+0	20
+20	40
+40	60
+60	80
+80	100
+ShowUnit=1

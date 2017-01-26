@@ -1,0 +1,27 @@
+Version 2
+NClasses 5
+Palette
+000	255	255
+048	191	191
+096	128	128
+144	064	064
+192	000	000
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+102 ... 166 [0.1 °C]
+166 ... 181 [0.1 °C]
+181 ... 197 [0.1 °C]
+197 ... 213 [0.1 °C]
+213 ... 224 [0.1 °C]
+StateOrder 0
+StateScale 1
+102	165.505
+165.505	181.391
+181.391	197.277
+197.277	213.163
+213.163	224
+ShowUnit=1

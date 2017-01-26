@@ -1,0 +1,27 @@
+Version 2
+NClasses 5
+Palette
+255	255	255
+191	191	191
+128	128	128
+064	064	064
+000	000	000
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+0 ... 0 [Degrees]
+0 ... 1 [Degrees]
+1 ... 3 [Degrees]
+3 ... 9 [Degrees]
+9 ... 29 [Degrees]
+StateOrder 0
+StateScale 1
+0	0.254512
+0.254512	0.97435
+0.97435	2.89806
+2.89806	8.65489
+8.65489	29
+ShowUnit=1

@@ -1,0 +1,27 @@
+Version 2
+NClasses 5
+Palette
+192	000	000
+144	064	064
+096	128	128
+048	191	191
+000	255	255
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+1094 ... 1284 [mm]
+1284 ... 1555 [mm]
+1555 ... 1970 [mm]
+1970 ... 2689 [mm]
+2689 ... 4234 [mm]
+StateOrder 0
+StateScale 1
+1093.5	1283.97
+1283.97	1554.8
+1554.8	1970.41
+1970.41	2689.29
+2689.29	4234
+ShowUnit=1

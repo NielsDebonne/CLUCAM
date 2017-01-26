@@ -1,0 +1,27 @@
+Version 2
+NClasses 5
+Palette
+192	000	000
+144	064	064
+096	128	128
+048	191	191
+000	255	255
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+75 ... 90 [mm/m]
+90 ... 105 [mm/m]
+105 ... 120 [mm/m]
+120 ... 135 [mm/m]
+135 ... 150 [mm/m]
+StateOrder 0
+StateScale 1
+75	90
+90	105
+105	120
+120	135
+135	150
+ShowUnit=1
