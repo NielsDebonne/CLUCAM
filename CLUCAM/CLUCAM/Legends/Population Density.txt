@@ -1,0 +1,27 @@
+Version 2
+NClasses 5
+Palette
+000	255	255
+048	191	191
+096	128	128
+144	064	064
+192	000	000
+StateOrderColor 0
+LegendType 1
+Decimals 2
+DisplayMin 0
+DisplayMax 1
+StateLabel 3
+0 ... 0 [# per hectare]
+0 ... 1 [# per hectare]
+1 ... 1 [# per hectare]
+1 ... 4 [# per hectare]
+4 ... 430 [# per hectare]
+StateOrder 0
+StateScale 1
+0	0.249276
+0.249276	0.664095
+0.664095	1.49134
+1.49134	3.95406
+3.95406	430.336
+ShowUnit=1

@@ -264,6 +264,13 @@
                   <Legend>Legends/TRI.txt</Legend>
                 </SuitabilityLayer>
               </elem>
+              <elem>
+                <SuitabilityLayer>
+                  <Filename>../../LSCAM_InData/LSCAM_InData/populationdensity.asc</Filename>
+                  <Name>Population Density</Name>
+                  <Legend>Legends/Population Density.txt</Legend>
+                </SuitabilityLayer>
+              </elem>
             </vector>
           </SuitabilityLayers>
           <ExclusionLayers>
@@ -596,33 +603,34 @@
             </vector>
           </ConversionMatrix>
           <SampleSettings>
-            <PctObservations>30</PctObservations>
-            <SampleDistance>2</SampleDistance>
+            <PctObservations>5</PctObservations>
+            <SampleDistance>1</SampleDistance>
             <ExcludeNoData>1</ExcludeNoData>
             <BalancedSample>1</BalancedSample>
             <SuitabilityMaps>
               <vector>
                 <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
-                <elem>1</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
+                <elem>0</elem>
               </vector>
             </SuitabilityMaps>
           </SampleSettings>
@@ -763,62 +771,12 @@
                   <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
-                </vector>
-              </elem>
-              <elem>
-                <vector>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
                   <elem>0</elem>
                 </vector>
               </elem>
               <elem>
                 <vector>
                   <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                </vector>
-              </elem>
-              <elem>
-                <vector>
                   <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
@@ -867,31 +825,6 @@
                   <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
-                </vector>
-              </elem>
-              <elem>
-                <vector>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
-                  <elem>0</elem>
                   <elem>0</elem>
                 </vector>
               </elem>
@@ -919,6 +852,34 @@
                   <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
+                  <elem>0</elem>
+                </vector>
+              </elem>
+              <elem>
+                <vector>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
                 </vector>
               </elem>
               <elem>
@@ -945,10 +906,66 @@
                   <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
+                  <elem>0</elem>
                 </vector>
               </elem>
               <elem>
                 <vector>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                </vector>
+              </elem>
+              <elem>
+                <vector>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                  <elem>0</elem>
+                </vector>
+              </elem>
+              <elem>
+                <vector>
+                  <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
                   <elem>0</elem>
